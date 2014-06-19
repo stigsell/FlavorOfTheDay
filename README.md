@@ -5,6 +5,11 @@ A Twilio-powered PHP script for use with Culvers Flavor of the Day schedules.
 
 Go to [http://stig.co/culvers](http://stig.co/culvers) to learn more.
 
+Installation
+------------
+
+Make sure to have the Twilio PHP library ([found here](https://github.com/twilio/twilio-php)) in the same directory as this script.  You only really need the Services folder, the rest is docs and test code.  Go to your Twilio settings, and in the SMS section of the number you want to use, paste the link to this script on your server.  Then text it and you're good to go!
+
 Coming soon
 -----------
 
